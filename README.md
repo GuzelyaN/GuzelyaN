@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 👩‍💻 I am Guzelia Nikolaeva
+
 🔭 Manual QA Engineer
+
 🎓 ISTQB® Certified Tester 
+
 📫 guzelyag@gmail.com
+
 📈 
 
 <!--
