@@ -8,7 +8,8 @@
 
 📫 guzelyag@gmail.com
 
-📈 
+📈 Tech Stack: Jira, Confluence, Swagger, Postman, Jenkins, Allure, DevTools, Notion, CRM, XWand, IBM Cognos Analytics, GitHub, IntelliJ IDEA, Selenium,
+
 
 <!--
 - 🌱 I’m currently learning ...
