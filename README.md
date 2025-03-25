@@ -1,22 +1,15 @@
-## Hi there 👋
+## Hi there 👋  
 
-👩‍💻 I am Guzelia Nikolaeva
+### 👩‍💻 I am **Guzelia Nikolaeva**  
 
-🔭 Manual QA Engineer
+🔭 **Manual QA Engineer**  
+🎓 **ISTQB® Certified Tester**  
 
-🎓 ISTQB® Certified Tester 
+📫 **Contact me:** [guzelyag@gmail.com](mailto:guzelyag@gmail.com)  
 
-📫 guzelyag@gmail.com
-
-📈 Tech Stack: Jira, Confluence, Swagger, Postman, Jenkins, Allure, DevTools, Notion, CRM, XWand, IBM Cognos Analytics, GitHub, IntelliJ IDEA, Selenium,
-
-
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 **Tech Stack:**  
+- **Testing & Automation**: Selenium, Postman, Swagger  
+- **Project Management & Collaboration**: Jira, Confluence, Notion  
+- **CI/CD & Tools**: Jenkins, Allure, GitHub  
+- **Development & Analysis**: IntelliJ IDEA, DevTools, IBM Cognos Analytics  
+- **Others**: CRM, XWand  
