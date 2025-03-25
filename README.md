@@ -9,18 +9,18 @@
 
 ### 📈 **Tech Stack:**  
 - **Testing & Automation**: Selenium, Postman, Swagger  
-- **Project Management & Collaboration**: Jira, Confluence, Notion  
+- **Test Management & Collaboration**: Jira, Confluence, Zephyr, Notion  
+- **Databases**: MySQL, SQL Developer  
 - **CI/CD & Tools**: Jenkins, Allure  
 - **Development & Analysis**: IntelliJ IDEA, DevTools, IBM Cognos Analytics  
+- **Scripting/Markup Languages**: JSON, XML, JavaScript, Java  
+- **Platforms/Environments**: Linux, Windows, GitHub  
 - **Others**: CRM, XWand  
+- **Types of Testing**: Integration, Functional, Regression, System, Exploratory, UAT, 
 
-## Core Skills & Tools:
-- **Testing**: Functional, Regression, System, Exploratory, UAT
-- **Technologies**: SQL, MySQL, Oracle, JSON, XML, JavaScript, Java
-- **Environment**: Linux, Windows, GitHub
-
-## Methodologies:
+### Methodologies:
 - **Agile (Scrum, Kanban)**
+- **Waterfall**
 
 ## Languages:
 - **English (B2)**
