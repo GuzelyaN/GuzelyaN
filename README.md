@@ -28,5 +28,5 @@
 **Serbian (A2)**
 
 ## Repos
-**[Certificates & Diplomas](https://github.com/GuzelyaN/Certificates-Diplomas)
-**[Text test artifacts](https://github.com/GuzelyaN/Test-Artifacts)
+**[Certificates & Diplomas](https://github.com/GuzelyaN/Certificates-Diplomas)**
+**[Text test artifacts](https://github.com/GuzelyaN/Test-Artifacts)**
