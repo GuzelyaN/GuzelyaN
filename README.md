@@ -11,7 +11,7 @@
 - **Testing & Automation:** Selenium, Postman, Swagger  
 - **Databases:** MySQL, SQL Developer  
 - **CI/CD & Tools:** Jenkins, Allure  
-- **Languages:** JSON, XML, JavaScript, Java  
+- **Scripting & Markup Languages:** JSON, XML, JavaScript, Java, HTML, CSS  
 - **Platforms:** Linux, Windows, GitHub  
 - **Dev Tools:** IntelliJ IDEA, DevTools, IBM Cognos Analytics  
 
