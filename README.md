@@ -60,4 +60,6 @@
 ---
 ### 📂 **Repositories**  
 📜 [**Certificates & Diplomas**](https://github.com/GuzelyaN/Certificates-Diplomas)  
-📑 [**Test Artifacts**](https://github.com/GuzelyaN/Test-Artifacts)  
+📑 [**Test Artifacts**](https://github.com/GuzelyaN/Test-Artifacts) 
+🛠️ [**API Testing Postman](https://github.com/GuzelyaN/Postman)
+💾 [SQL Query Examples](https://github.com/GuzelyaN/SQL)
