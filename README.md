@@ -9,31 +9,28 @@
 ---
 ### 📈 **Tech Stack**  
 
-#### 🛠️ **Testing & Automation**  
-- Selenium  - Postman  - Swagger  
 #### 📊 **Test Management & Collaboration**  
-- Jira  - Confluence  - Zephyr  - Notion  
+ Jira   Confluence   Zephyr   
+#### 🛠️ **Testing & Automation**  
+ Selenium   Postman   Swagger  
 #### 💾 **Databases**  
-- MySQL  - SQL Developer  
+ MySQL   SQL Developer  
 #### 🚀 **CI/CD & Tools**  
-- Jenkins  - Allure  
-#### 🖥️ **Development & Analysis**  
-- IntelliJ IDEA  - DevTools  - IBM Cognos Analytics  
+ Jenkins   Allure  
 #### 📜 **Scripting & Markup Languages**  
-- JSON  - XML  - JavaScript  - Java  
+ JSON   XML   JavaScript   Java  
 #### 💻 **Platforms & Environments**  
-- Linux  - Windows  - GitHub  
+ Linux   Windows   GitHub  
 #### 🔍 **Others**  
-- CRM  - XWand  
----
+ CRM   XWand  
+#### 🖥️ **Development & Analysis**  
+ IntelliJ IDEA   DevTools   IBM Cognos Analytics  
 ### 🔬 **Types of Testing**  
-- Integration  - Functional  - Regression - System  - Exploratory  - UAT  
----
+ Integration  Functional  Regression System  Exploratory  UAT  
 ### 📌 **Methodologies**  
-- **Agile** (Scrum, Kanban)  - **Waterfall**  
----
+**Agile** (Scrum, Kanban) **Waterfall**  
 ### 🌍 **Languages**  
-- **English** (B2)  - **Russian** (Native)  - **Serbian** (A2)  
+ **English** (B2)  **Russian** (Native)  **Serbian** (A2)  
 ---
 ### 📂 **Repositories**  
 📜 [**Certificates & Diplomas**](https://github.com/GuzelyaN/Certificates-Diplomas)  
