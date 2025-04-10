@@ -27,6 +27,7 @@ English (B2), Russian (Native), Serbian (A2)
 ---
 
 ### 📂 **Repositories**  
+- [**Projects**](https://github.com/GuzelyaN/Projects)
 - [**Certificates & Diplomas**](https://github.com/GuzelyaN/Certificates-Diplomas)  
 - [**Test Artifacts**](https://github.com/GuzelyaN/Test-Artifacts)  
 - [**API Testing Postman**](https://github.com/GuzelyaN/Postman)  
