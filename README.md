@@ -8,14 +8,20 @@
 
 ### 📈 **Tech Stack**  
 - **Test Management:** Jira, Confluence, Zephyr, Linear  
-- **Testing & Automation:** Postman, Swagger, DevTools, PowerShell, k6  
+- **Testing & Automation:** Selenium, Postman, Swagger, DevTools, PowerShell, k6  
 - **Databases:** MySQL, SQL Developer, DBeaver  
 - **CI/CD & Tools:** Jenkins, Allure  
-- **Scripting & Markup Languages:** JSON, XML, JavaScript, HTML, CSS  
-- **Platforms:** Linux, Windows, GitHub, Fly.io  
+- **Scripting & Markup Languages:** JSON, XML, JavaScript, Java, HTML, CSS  
+- **Platforms:** GitHub, Fly.io  
+
+### 🖥️📱 **Devices & Environments**  
+- Browsers: Chrome, Firefox, Safari, Edge  
+- Mobile Web (iOS, Android)  
+- Telegram Mini App  
+- Operating Systems: Windows, Linux
 
 ### 🔬 **Types of Testing**  
-Integration, Functional, Regression, System, Exploratory, API, Load
+Integration, Functional, Regression, System, Exploratory, API, Load  
 
 ### 📌 **Methodologies**  
 Agile (Scrum, Kanban), Waterfall  
@@ -24,7 +30,5 @@ Agile (Scrum, Kanban), Waterfall
 English (B2), Russian (Native), Serbian (A2)
 
 ---
-
-
 
 
