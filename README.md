@@ -11,7 +11,7 @@
 - **Testing & Automation:** Postman, Swagger, DevTools, PowerShell, k6  
 - **Databases:** MySQL, SQL Developer, DBeaver  
 - **CI/CD & Tools:** Jenkins, Allure  
-- **Scripting & Markup Languages:** JSON, XML, JavaScript, Java, HTML, CSS  
+- **Scripting & Markup Languages:** JSON, XML, JavaScript, HTML, CSS  
 - **Platforms:** Linux, Windows, GitHub, Fly.io  
 
 ### 🔬 **Types of Testing**  
