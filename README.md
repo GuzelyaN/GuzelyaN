@@ -8,15 +8,15 @@
 
 ### 📈 **Tech Stack**  
 - **Test Management:** Jira, Confluence, Zephyr  
-- **Testing & Automation:** Selenium, Postman, Swagger  
-- **Databases:** MySQL, SQL Developer  
+- **Testing & Automation:** Selenium, Postman, Swagger, DevTools, Powershell, K6 
+- **Databases:** MySQL, SQL Developer, DBevear
 - **CI/CD & Tools:** Jenkins, Allure  
 - **Scripting & Markup Languages:** JSON, XML, JavaScript, Java, HTML, CSS  
 - **Platforms:** Linux, Windows, GitHub  
-- **Dev Tools:** IntelliJ IDEA, DevTools, IBM Cognos Analytics  
+
 
 ### 🔬 **Types of Testing**  
-Integration, Functional, Regression, System, Exploratory, UAT  
+Integration, Functional, Regression, System, Exploratory, API, Load
 
 ### 📌 **Methodologies**  
 Agile (Scrum, Kanban), Waterfall  
