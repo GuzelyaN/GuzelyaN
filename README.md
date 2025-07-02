@@ -13,15 +13,16 @@
 - **CI/CD & Tools:** Jenkins, Allure  
 - **Scripting & Markup Languages:** JSON, XML, JavaScript, Java, HTML, CSS  
 - **Platforms:** GitHub, Fly.io  
+- **Design & UI Review:** Figma
 
 ### 🖥️📱 **Devices & Environments**  
-- Browsers: Chrome, Firefox, Safari, Edge  
-- Mobile (iOS, Android)  
+- Web Browsers: Chrome, Firefox, Safari, Edge  
+- Mobile Devices: iOS, Android  
 - Telegram Mini App  
-- Operating Systems: Windows, Linux
+- Desktop OS: Windows, Linux
 
 ### 🔬 **Types of Testing**  
-Integration, Functional, Regression, System, Exploratory, API, Load  
+Integration, Functional, Regression, System, Exploratory, API, Load, UI/UX testing
 
 ### 📌 **Methodologies**  
 Agile (Scrum, Kanban), Waterfall  
@@ -30,5 +31,6 @@ Agile (Scrum, Kanban), Waterfall
 English (B2), Russian (Native), Serbian (A2)
 
 ---
+
 
 
