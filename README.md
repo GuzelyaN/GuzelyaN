@@ -16,7 +16,7 @@
 
 ### 🖥️📱 **Devices & Environments**  
 - Browsers: Chrome, Firefox, Safari, Edge  
-- Mobile Web (iOS, Android)  
+- Mobile (iOS, Android)  
 - Telegram Mini App  
 - Operating Systems: Windows, Linux
 
