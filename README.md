@@ -8,10 +8,10 @@
 
 ### 📈 **Tech Stack**  
 - **Test Management:** Jira, Confluence, Zephyr, Linear  
-- **Testing & Automation:** Selenium, Postman, Swagger, DevTools, PowerShell, k6  
+- **Testing & Automation:** Postman, Swagger, DevTools, PowerShell, k6  
 - **Databases:** MySQL, SQL Developer, DBeaver  
 - **CI/CD & Tools:** Jenkins, Allure  
-- **Scripting & Markup Languages:** JSON, XML, JavaScript, Java, HTML, CSS  
+- **Scripting & Markup Languages:** JSON, XML, JavaScript, HTML, CSS  
 - **Platforms:** GitHub, Fly.io  
 - **Design & UI Review:** Figma
 
